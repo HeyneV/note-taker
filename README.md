@@ -1,5 +1,10 @@
 # Note Taker Starter Code
 
+https://heynev.github.io/note-taker/
+
+![image](https://user-images.githubusercontent.com/81537925/123559635-3b391000-d76b-11eb-9757-453d7f979caa.png)
+
+
 AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
